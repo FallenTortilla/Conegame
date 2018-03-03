@@ -1,7 +1,6 @@
-## Conegame
-#A terminal quiz game
+### Conegame – A terminal quiz game
 
-#Features:
+Features:
   Written in C
   Easy to add questions
   Question draw system
